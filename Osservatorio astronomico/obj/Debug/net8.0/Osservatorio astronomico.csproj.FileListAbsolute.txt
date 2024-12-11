@@ -1,0 +1,15 @@
+C:\Users\ziyis\OneDrive\Desktop\Esercizio-Osservatorio-astronomico\Osservatorio astronomico\bin\Debug\net8.0\Osservatorio astronomico.exe
+C:\Users\ziyis\OneDrive\Desktop\Esercizio-Osservatorio-astronomico\Osservatorio astronomico\bin\Debug\net8.0\Osservatorio astronomico.deps.json
+C:\Users\ziyis\OneDrive\Desktop\Esercizio-Osservatorio-astronomico\Osservatorio astronomico\bin\Debug\net8.0\Osservatorio astronomico.runtimeconfig.json
+C:\Users\ziyis\OneDrive\Desktop\Esercizio-Osservatorio-astronomico\Osservatorio astronomico\bin\Debug\net8.0\Osservatorio astronomico.dll
+C:\Users\ziyis\OneDrive\Desktop\Esercizio-Osservatorio-astronomico\Osservatorio astronomico\bin\Debug\net8.0\Osservatorio astronomico.pdb
+C:\Users\ziyis\OneDrive\Desktop\Esercizio-Osservatorio-astronomico\Osservatorio astronomico\obj\Debug\net8.0\Osservatorio astronomico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ziyis\OneDrive\Desktop\Esercizio-Osservatorio-astronomico\Osservatorio astronomico\obj\Debug\net8.0\Osservatorio astronomico.AssemblyInfoInputs.cache
+C:\Users\ziyis\OneDrive\Desktop\Esercizio-Osservatorio-astronomico\Osservatorio astronomico\obj\Debug\net8.0\Osservatorio astronomico.AssemblyInfo.cs
+C:\Users\ziyis\OneDrive\Desktop\Esercizio-Osservatorio-astronomico\Osservatorio astronomico\obj\Debug\net8.0\Osservatorio astronomico.csproj.CoreCompileInputs.cache
+C:\Users\ziyis\OneDrive\Desktop\Esercizio-Osservatorio-astronomico\Osservatorio astronomico\obj\Debug\net8.0\Osservatorio astronomico.sourcelink.json
+C:\Users\ziyis\OneDrive\Desktop\Esercizio-Osservatorio-astronomico\Osservatorio astronomico\obj\Debug\net8.0\Osservatorio astronomico.dll
+C:\Users\ziyis\OneDrive\Desktop\Esercizio-Osservatorio-astronomico\Osservatorio astronomico\obj\Debug\net8.0\refint\Osservatorio astronomico.dll
+C:\Users\ziyis\OneDrive\Desktop\Esercizio-Osservatorio-astronomico\Osservatorio astronomico\obj\Debug\net8.0\Osservatorio astronomico.pdb
+C:\Users\ziyis\OneDrive\Desktop\Esercizio-Osservatorio-astronomico\Osservatorio astronomico\obj\Debug\net8.0\Osservatorio astronomico.genruntimeconfig.cache
+C:\Users\ziyis\OneDrive\Desktop\Esercizio-Osservatorio-astronomico\Osservatorio astronomico\obj\Debug\net8.0\ref\Osservatorio astronomico.dll
